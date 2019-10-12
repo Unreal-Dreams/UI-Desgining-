@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_main);
-//
+//        This is the trail for github
 //        ArrayAdapter<String> locationadapter=new ArrayAdapter<>(this,android.R.layout.simple_list_item_1,cityHint);
 //        city.setAdapter(locationadapter);
 //        city.setThreshold(1);
