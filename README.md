@@ -8,7 +8,7 @@ Once the appointment is confirmed the user will get a confirmation message. The 
 ### Ideation
 
 Project ideation was simple so as to create an application as one point resource for 
-patients. Here is the UI of the of the home page.
+patients. Here is the UI of the of the home page.Firebase is used for backend. 
 
 
 
