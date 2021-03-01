@@ -11,7 +11,8 @@ Project ideation was simple so as to create an application as one point resource
 patients. Here is the UI of the of the home page.
 
 
-![GIF-210301_194015](https://user-images.githubusercontent.com/56435229/109509270-b7c22780-7ac6-11eb-86eb-7e522905cbb4.gif)
+
+![College-Buddy-UI gif](https://user-images.githubusercontent.com/56435229/109516298-08894e80-7ace-11eb-9db4-8dc8f2b374d0.gif)
 
 
 
